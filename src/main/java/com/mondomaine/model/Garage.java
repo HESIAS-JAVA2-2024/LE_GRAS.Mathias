@@ -14,6 +14,10 @@ public class Garage {
     private String nom;
     private String adresse;
 
+    public Garage() {
+
+    }
+
     public String getNom() {
         return nom;
     }

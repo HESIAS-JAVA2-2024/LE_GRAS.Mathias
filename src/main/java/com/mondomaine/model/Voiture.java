@@ -14,6 +14,10 @@ public class Voiture {
     private String marque;
     private int puissance;
 
+    public Voiture() {
+
+    }
+
     public String getMarque() {
         return marque;
     }
